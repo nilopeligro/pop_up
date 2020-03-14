@@ -5,6 +5,8 @@
    }
    body{
     font-family: sans-serif;
+    background-color: #f6f6f6;
+    color: #000;
    }
    a:link,
    a:visited{
